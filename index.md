@@ -28,6 +28,10 @@ I also have experience in engineering related software such as:
 
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
 ## Mechatronics
+
+### Objective:
+<dd>Godzilla</dd>
+
 ![Mechatronics](https://github.com/MichaelDarpino/michaeldarpino.github.io/blob/master/assets/images/robot.jpg)
 <a href="/Mechatronics.html"><img src="assets/images/robot.jpg" width="500" height="600" border="0"></a>
 
