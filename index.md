@@ -28,7 +28,7 @@ I also have experience in engineering related software such as:
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
 ## Mechatronics
 
-**Objective:**
+**Purpose:**
 <dd>Godzilla</dd>
 
 <a href="/another-page-vc.html"><img src="assets/images/real_robot.jpg" width="700" height="600" border="0"></a>
