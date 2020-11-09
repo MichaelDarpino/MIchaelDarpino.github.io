@@ -60,10 +60,3 @@ Look deep into nature, and then you will understand everything better. —Albert
 <a href="/another-page-travel.html"><img src="assets/images/arizona4.jpg" width="700" height="600" border="0"></a>
 [More Photos](./another-page-travel.html).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
