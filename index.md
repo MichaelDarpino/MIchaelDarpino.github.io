@@ -40,9 +40,9 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 ## Video Card
 **Purpose:**
 <dd>This video was implemented using a variety of circuit elements, including: binary counters, hex inverters, NAND gates, and a 10MHz oscillator. The card is designed to output a resolution of 800x600 pixels and with additional programming as well as an EPROM (electronic programmable read only memmory) it is fully capable of displaying still pictures.</dd>
-
+<br>
 <a href="/Mechatronics.html"><img src="assets/images/full_vc.jpg" width="700" height="600" border="0"></a>
-[More Photos](./another-page.html).
+[More Photos](./another-page-vc.html).
 ##### Header 5
 
 1.  This is an ordered list following a header.
