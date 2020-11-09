@@ -28,6 +28,7 @@ I also have experience in engineering related software such as:
 
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
 ## Mechatronics
+![Mechatronics](https://github.com/MichaelDarpino/michaeldarpino.github.io/blob/master/assets/images/robot.jpg)
 [More Design Photos](./another-page.html).
 ```js
 // Javascript code with syntax highlighting.
@@ -105,10 +106,7 @@ end
 
 ### Large image
 
-![Mechatronics](https://github.com/MichaelDarpino/michaeldarpino.github.io/blob/master/assets/images/robot.jpg)
-<div>
-<img src= ./assets/images/robot.jpg>
-</div>
+
 
 ### Definition lists can be used with HTML syntax.
 
