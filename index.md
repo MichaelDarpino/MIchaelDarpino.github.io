@@ -43,12 +43,13 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 <br>
 <a href="/another-page.html"><img src="assets/images/full_vc.jpg" width="700" height="600" border="0"></a>
 [More Photos](./another-page.html).
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
+##8-Bit Virtual Adder
+**Purpose:**
+<dd>The composed circuit was designed with LASI software and required multiple layers of circuitry to be created. THe circuit began at the most basic level, with the formation of p-wells and n-well, and was then connected to the upper levels with the use of via metals. The LASI software was able to automatically generate Verilog code, and after tinkering with parasitic capacitances and variable voltages, the circuit outputs were graphed in LTspice to confirm functionality.</dd>
+<br>
+<a href="/another-page-bit.html"><img src="assets/images/fa_toplevel.png" width="700" height="600" border="0"></a>
+[More Photos](./another-page-bit.html).
 ###### Header 6
 
 | head1        | head two          | three |
