@@ -8,5 +8,11 @@
 <br>
 <img src="assets/images/sheet_robot" width="700" height="600" border="0">
 <br>
+<img src="assets/images/full_vc" width="700" height="600" border="0">
+<br>
+<img src="assets/images/vc_display" width="700" height="600" border="0">
+<br>
+<img src="assets/images/vc_vga" width="700" height="600" border="0">
+<br>
 
 [Go Back](https://michaeldarpino.github.io/)
