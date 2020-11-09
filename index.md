@@ -4,32 +4,27 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## About Me
 
 I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have knowledge in a variety of programming languages including:
 
-* Java
-* C/C++
-* JavaScript
-* HTML
-* SQL
-* Python
+* **Java**
+* **C/C++**
+* **JavaScript**
+* **HTML**
+* **SQL**
+* **Python**
 
 I also have experience in engineering related software such as:
 
-* SolidWorks
-* Microsoft Office
-* AutoCAD
-* MATLAB
-* Logisim
-* Multisim
-* LTspice
+* **SolidWorks**
+* **Microsoft Office**
+* **AutoCAD**
+* **MATLAB**
+* **Logisim**
+* **Multisim**
+* **LTspice**
 
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
 ## Mechatronics
@@ -111,6 +106,9 @@ end
 ### Large image
 
 ![Mechatronics](https://github.com/MichaelDarpino/michaeldarpino.github.io/blob/master/assets/images/robot.jpg)
+<div>
+<img src= ./assets/images/robot.jpg>
+</div>
 
 ### Definition lists can be used with HTML syntax.
 
