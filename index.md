@@ -110,8 +110,8 @@ end
 
 ### Large image
 
-![Mechatronics](<a><img src="/assets/images/robot.jpg" width="300 height="400"></a>)
-
+![Mechatronics]()
+<img src=./assets/images/robot.jpg>
 
 ### Definition lists can be used with HTML syntax.
 
