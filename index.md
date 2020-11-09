@@ -111,7 +111,7 @@ end
 ### Large image
 
 ![Mechatronics]()
-<a><img src="images/robot.png" width="500" height="600" border="0"></a>
+<a><img src="C:\Users\Mike\Downloads\architect\assets\images\robot.jpg" width="500" height="600" border="0"></a>
 
 
 ### Definition lists can be used with HTML syntax.
