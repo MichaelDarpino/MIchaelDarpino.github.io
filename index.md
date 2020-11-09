@@ -14,36 +14,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have knowledge in a variety of programming languages including:
 
-> Java,
->
-> C/C++,
->
-> JavaScript,
->
-> HTML,
->
-> SQL,
->
-> Python
+* Java
+* C/C++
+* JavaScript
+* HTML
+* SQL
+* Python
 
 I also have experience in engineering related software such as:
 
-> SolidWorks,
->
-> Microsoft Office,
->
-> AutoCAD,
->
-> MATLAB,
->
-> Logisim,
->
-> Multisim,
->
-> LTspice
+* SolidWorks
+* Microsoft Office
+* AutoCAD
+* MATLAB
+* Logisim
+* Multisim
+* LTspice
 
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
-### Header 3
+## Mechtronics
 
 ```js
 // Javascript code with syntax highlighting.
