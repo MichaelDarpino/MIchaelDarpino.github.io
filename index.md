@@ -37,21 +37,6 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 
 
 [More Design Photos](./another-page.html).
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
 ## Video Card
 **Purpose:**
 <dd>This video was implemented using a variety of circuit elements, including: binary counters, hex inverters, NAND gates, and a 10MHz oscillator. The card is designed to output a resolution of 800x600 pixels and with additional programming as well as an EPROM (electronic programmable read only memmory) it is fully capable of displaying still pictures.</dd>
