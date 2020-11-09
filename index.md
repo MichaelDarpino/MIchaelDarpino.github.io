@@ -32,7 +32,7 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 **Objective:**
 <dd>Godzilla</dd>
 
-<a href="/Mechatronics.html"><img src="assets/images/real_robot.jpg" width="700" height="600" border="0"></a>
+<a href="/another-page-vc.html"><img src="assets/images/real_robot.jpg" width="700" height="600" border="0"></a>
 
 
 
