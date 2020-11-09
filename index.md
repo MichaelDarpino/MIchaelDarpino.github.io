@@ -12,11 +12,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## About Me
 
-I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design.
+I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have knowledge in a variety of programming languages including:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Java
+> C/C++
+> JavaScript
+> HTML
+> SQL
+> Python
 
 ### Header 3
 
