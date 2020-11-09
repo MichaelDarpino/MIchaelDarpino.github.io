@@ -14,31 +14,31 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have knowledge in a variety of programming languages including:
 
-> Java
+> Java,
 >
-> C/C++
+> C/C++,
 >
-> JavaScript
+> JavaScript,
 >
-> HTML
+> HTML,
 >
-> SQL
+> SQL,
 >
 > Python
 
 I also have experience in engineering related software such as:
 
-> SolidWorks
+> SolidWorks,
 >
-> Microsoft Office
+> Microsoft Office,
 >
-> AutoCAD
+> AutoCAD,
 >
-> MATLAB
+> MATLAB,
 >
-> Logisim
+> Logisim,
 >
-> Multisim
+> Multisim,
 >
 > LTspice
 
