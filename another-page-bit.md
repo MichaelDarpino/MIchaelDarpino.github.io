@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## More Photos
+## More Design Photos and Proofs
 
 <a><img src="assets/images/fa_midlevel.png" width="700" height="600" border="0"></a>
 <br>
