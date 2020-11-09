@@ -32,8 +32,8 @@ I also have experience in engineering related software such as:
 * LTspice
 
 When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
-## Mechtronics
-
+## Mechatronics
+[More Design Photos](./another-page.html).
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
