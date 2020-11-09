@@ -32,8 +32,7 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 ### Objective:
 <dd>Godzilla</dd>
 
-![Mechatronics](https://github.com/MichaelDarpino/michaeldarpino.github.io/blob/master/assets/images/robot.jpg)
-<a href="/Mechatronics.html"><img src="assets/images/robot.jpg" width="500" height="600" border="0"></a>
+<a href="/Mechatronics.html"><img src="assets/images/robot.jpg" width="700" height="600" border="0"></a>
 
 
 
