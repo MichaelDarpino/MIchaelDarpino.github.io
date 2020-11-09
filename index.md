@@ -110,7 +110,8 @@ end
 
 ### Large image
 
-![Branching](https://photos.google.com/share/AF1QipPa_SXyliqKbht9mdbtgGRfZckysxJaYhinUG2fPZEBr9TkRTWtp0oRfvzhpbgvhw/photo/AF1QipMGrgXHDYZo0xZsDynNWp_oIAbLN_SvsjZbtheE?key=UHNtcVlWcV9GLWRwajVoX0xISEF0NWpjQVhEV2Vn)
+![Mechatronics]()
+<a><img src="images/robot.png" width="500" height="600" border="0"></a>
 
 
 ### Definition lists can be used with HTML syntax.
