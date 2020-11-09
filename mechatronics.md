@@ -14,5 +14,4 @@
 <br>
 <img src="assets/images/vc_vga" width="700" height="600" border="0">
 <br>
-
 [Go Back](https://michaeldarpino.github.io/)
