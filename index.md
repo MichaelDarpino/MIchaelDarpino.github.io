@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have experience in programming languages including:
+I am a Computer Engineering student with strong foundation in a variety of programming languages as well as hardware design. I have worked with programming languages including:
 
 * **Java**
 * **C/C++**
