@@ -30,7 +30,7 @@ When I am not tinkering with electronic DIY projects, I am often hiking with fri
 
 **Purpose:**
 <dd>Build and program an autonomous robot device to score as many points as possible in a 4-minute period by navigating a playfield while collecting and depositing object into designated bases. The designing of each part was done primarily in SolidWorks. The fabrication materials were lmitted to: Nylon Screws and Nuts, eighth inch thick acrylic (1ft x 2ft), and 3/32 inch thick acrylic. Hardware such as hobby servos, breadboards, electrical components, wires, motors, and battery packs were supplied as well, but not limitted. </dd>
-
+<br>
 
 <a href="/another-page-vc.html"><img src="assets/images/real_robot.jpg" width="700" height="600" border="0"></a>
 
