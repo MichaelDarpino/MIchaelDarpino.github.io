@@ -25,7 +25,7 @@ I also have experience in engineering related software such as:
 * **Multisim**
 * **LTspice**
 
-When I am not tinkering with electronic DIY projects, I am often hiking with friends enjoying what nature has to offer.
+When I am not tinkering with electronic DIY projects, I am often hiking with friends, enjoying what nature has to offer.
 ## Mechatronics
 
 **Purpose:**
